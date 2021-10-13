@@ -22,6 +22,7 @@
         
     </head>
     <body>
+            <h1>HOLAAAAAAAAA ES UNA PRUEBAAAA</h1>
                 <div class="container mt-5">
                     <form action="update.php" method="POST">
                     
